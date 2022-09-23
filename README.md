@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 
 My name is Alex and I'm a computer science student from **redacted**. Here's some info about me!
 
